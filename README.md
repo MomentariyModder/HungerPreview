@@ -1,7 +1,7 @@
 <p align="center">
     <img src="branding/logo.png" alt="wordmark">
 </p>
-###Displays Hunger Bar icons on all food names to show how much it will fill you up.
+### Displays Hunger Bar icons on all food names to show how much it will fill you up.
 
 ## <b>Download:</b><br>
 ### <a href="https://github.com/MomentariyModder/HungerPreview/raw/main/files/1.19.2/32x.zip">1.19.2 - 32x</a>
