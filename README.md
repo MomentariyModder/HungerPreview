@@ -14,33 +14,48 @@
 		<td><h4 align="center">Status</h4></td>
     </tr>
 	<tr>
-        <td><p align="center"><b>1.21</b></p></td>
-        <td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/files/1.21/32x.zip">32x</a></p></td>
-		<td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/files/1.21/64x.zip">64x</a></p></td>
+        <td><p align="center"><b>Java 1.21</b></p></td>
+        <td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/new/java/32x.zip">32x</a></p></td>
+		<td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/new/java/64x.zip">64x</a></p></td>
         <td><p align="center">Active</p></td>
     </tr>
 	<tr>
+        <td><p align="center"><b>Bedrock 1.21.x</b></p></td>
+        <td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/new/bedrock/32x.mcpack">32x</a></p></td>
+		<td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/new/bedrock/64x.mcpack">64x</a></p></td>
+        <td><p align="center">Active</p></td>
+    </tr>
+	<tr>
+        <td colspan="4"><h3 align="center">Olds</h3></td>
+    </tr>
+	<tr>
+        <td><p align="center"><b>1.21</b></p></td>
+        <td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/olds/files/1.21/32x.zip">32x</a></p></td>
+		<td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/olds/files/1.21/64x.zip">64x</a></p></td>
+        <td><p align="center">End of Life</p></td>
+    </tr>
+	<tr>
         <td><p align="center"><b>1.20.6</b></p></td>
-        <td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/files/1.20.6/32x.zip">32x</a></p></td>
-		<td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/files/1.20.6/64x.zip">64x</a></p></td>
+        <td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/olds/files/1.20.6/32x.zip">32x</a></p></td>
+		<td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/olds/files/1.20.6/64x.zip">64x</a></p></td>
         <td><p align="center">End of Life</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.4</b></p></td>
-        <td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/files/1.20.4/32x.zip">32x</a></p></td>
-		<td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/files/1.20.4/64x.zip">64x</a></p></td>
+        <td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/olds/files/1.20.4/32x.zip">32x</a></p></td>
+		<td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/olds/files/1.20.4/64x.zip">64x</a></p></td>
         <td><p align="center">End of Life</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.1</b></p></td>
-        <td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/files/1.20.1/32x.zip">32x</a></p></td>
-		<td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/files/1.20.1/64x.zip">64x</a></p></td>
+        <td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/olds/files/1.20.1/32x.zip">32x</a></p></td>
+		<td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/olds/files/1.20.1/64x.zip">64x</a></p></td>
         <td><p align="center">End of Life</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.19.2</b></p></td>
-        <td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/files/1.19.2/32x.zip">32x</a></p></td>
-		<td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/files/1.19.2/64x.zip">64x</a></p></td>
+        <td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/olds/files/1.19.2/32x.zip">32x</a></p></td>
+		<td><p align="center"><a href="https://github.com/MomentariyModder/HungerPreview/raw/main/olds/files/1.19.2/64x.zip">64x</a></p></td>
         <td><p align="center">End of Life</p></td>
     </tr></tbody>
 </table>
